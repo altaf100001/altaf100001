@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Altaf Ali baig</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
+Aspiring Full Stack Developer. Capable of writing production-ready code using React-JS, Redux, and CSS on the frontend ,Node-JS and Express on the backend to build single page applications
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaf100001&label=Profile%20views&color=0e75b6&style=flat" alt="altaf100001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altaf100001" alt="altaf100001" /></a> </p>
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **altaf100001@gmail.com**
 
-- ⚡ Fun fact **I think I am Hardworking**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
