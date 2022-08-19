@@ -9,7 +9,7 @@ Aspiring Full Stack Developer. Capable of writing production-ready code using Re
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+
 
 - 💬 Ask me about **DSA,HTML,CSS,JavaScript,React,Redux,Mongo-db,TypeScript,Git,Nodejs**
 
