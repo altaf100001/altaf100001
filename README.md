@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and JS6**
+- 🌱 I’m currently learning **React and Redux**
 
-- 💬 Ask me about **DSA,HTML,CSS,JavaScript**
+- 💬 Ask me about **DSA,HTML,CSS,JavaScript,React,Redux,Mongo-db,TypeScript,Git,Nodejs**
 
 - 📫 How to reach me **altaf100001@gmail.com**
 
