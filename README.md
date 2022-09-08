@@ -11,7 +11,7 @@ Aspiring Full Stack Developer. Capable of writing production-ready code using Re
 
 
 
-- 💬 Ask me about **DSA,HTML,CSS,JavaScript,React,Redux,Mongo-db,TypeScript,Git,Nodejs**
+- 💬 Ask me about **DSA,HTML,CSS,JavaScript,React,Redux,Mongo-db,TypeScript,Git,Nodejs,Express**
 
 - 📫 How to reach me **altaf100001@gmail.com**
 
