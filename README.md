@@ -20,7 +20,7 @@ Aspiring Full Stack Developer. Capable of writing production-ready code using Re
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  LinkedIn : https://www.linkedin.com/in/altaf-ali-baig-1b87b8190/ <br/>
-Portfolio link: https://altafalibaig.in/
+Portfolio link: https://altafalibaig.in
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
