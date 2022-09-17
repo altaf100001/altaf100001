@@ -23,7 +23,7 @@ Aspiring Full Stack Developer. Capable of writing production-ready code using Re
 Portfolio link: https://altafalibaig.in
 </p>
 
-<h2><i>Tech Stack</i></h2>
+<h2>Tech Stack</h2>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
