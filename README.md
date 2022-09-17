@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Altaf Ali baig</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Altaf Ali baig</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-Aspiring Full Stack Developer. Capable of writing production-ready code using React-JS, Redux, and CSS on the frontend ,Node-JS and Express on the backend to build single page applications
+I'm a Full Stack Developer. Capable of writing production-ready code using React-JS, Redux, and CSS on the frontend ,Node-JS and Express on the backend to build single page applications
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaf100001&label=Profile%20views&color=0e75b6&style=flat" alt="altaf100001" /> </p>
 
