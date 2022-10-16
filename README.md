@@ -49,7 +49,7 @@ Portfolio link: https://altafalibaig.in
 <br>
 
  |<a href=""><img align="center" src= "https://github-readme-stats.vercel.app/api?username=altaf100001&show_icons=true&locale=en" alt="altaf100001" /></a> | <a href=""><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs?username=altaf100001&show_icons=true&locale=en&layout=compact" alt="altaf100001" /></a>|
- | ------------- | ------------- |
+ | ------------- | ------------- |    
  
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altaf100001&show_icons=true&locale=en&layout=compact" alt="altaf100001" /></p>
