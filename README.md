@@ -13,7 +13,7 @@ I'm a Full Stack Developer. Capable of writing production-ready code using React
 
 
 
-- 📫 How to reach me **altaf100001@gmail.com**
+- 📫 How to reach me ***altaf100001@gmail.com***
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1mCU00nPTF5DeCFb46Cqhtvm2rCUpLsN3/view)
 
