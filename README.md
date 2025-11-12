@@ -22,7 +22,7 @@ I'm a Full Stack Developer. Capable of writing production-ready code using React
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  LinkedIn : https://www.linkedin.com/in/altaf-ali-baig-1b87b8190/ <br/>
-Portfolio link: https://altafalibaig.in
+Portfolio link: https://altaf-ali-baig.vercel.app/
 </p>
 
 <h2>Tech Stack</h2>
