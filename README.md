@@ -7,7 +7,7 @@ I'm a Full Stack Developer. Capable of writing production-ready code using React
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altaf100001" alt="altaf100001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 
 
@@ -15,7 +15,7 @@ I'm a Full Stack Developer. Capable of writing production-ready code using React
 
 - 📫 How to reach me **altaf100001@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1mCU00nPTF5DeCFb46Cqhtvm2rCUpLsN3/view)
+
 
 
 
